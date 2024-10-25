@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6960dcab-48d5-4bd2-b1a1-23487a24fd5a">
+  <name>УчетЛюдей</name>
+  <synonym>
+    <key>ru</key>
+    <value>Учет людей</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <explanation>
+    <key>ru</key>
+    <value>Справочники фиксирующие информацию о людях</value>
+  </explanation>
+  <picture xsi:type="core:PictureRef">
+    <picture>StdPicture.ActiveUsers</picture>
+  </picture>
+  <content>Catalog.Люди</content>
+</mdclass:Subsystem>

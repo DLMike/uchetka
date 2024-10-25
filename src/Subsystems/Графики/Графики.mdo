@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="df326f09-8406-4d8f-b4d0-1aa5eff445af">
+  <name>Графики</name>
+  <synonym>
+    <key>ru</key>
+    <value>Графики</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <explanation>
+    <key>ru</key>
+    <value>Графики уборки и прочие</value>
+  </explanation>
+  <picture xsi:type="core:PictureRef">
+    <picture>StdPicture.Calendar</picture>
+  </picture>
+  <content>Catalog.Календари</content>
+</mdclass:Subsystem>
