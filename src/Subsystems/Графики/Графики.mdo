@@ -15,4 +15,5 @@
     <picture>StdPicture.Calendar</picture>
   </picture>
   <content>Catalog.Календари</content>
+  <content>Document.ГрафикиУборки</content>
 </mdclass:Subsystem>

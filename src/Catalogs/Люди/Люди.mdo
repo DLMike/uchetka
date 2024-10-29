@@ -225,6 +225,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="f660c3b9-33ee-43c0-9c20-4b8ff451b1e2">
+    <name>Очередь</name>
+    <synonym>
+      <key>ru</key>
+      <value>Очередь</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="a7502d3e-2188-4da1-982b-209ece28df1d">
     <producedTypes>
       <objectType typeId="938db095-d08e-4a28-954a-c3c33b25db8a" valueTypeId="6d8a5deb-7c65-4135-bf04-d07fdcf22ae6"/>
