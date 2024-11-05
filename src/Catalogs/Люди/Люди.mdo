@@ -120,6 +120,7 @@
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.Люди.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultFolderForm>Catalog.Люди.Form.ФормаГруппы</defaultFolderForm>
   <attributes uuid="33ad0244-921c-4230-9def-9b914dcb4ce3">
     <name>Имя</name>
     <synonym>
@@ -521,6 +522,24 @@
     <synonym>
       <key>ru</key>
       <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="02902f9a-356f-4f5d-a9b5-db310450d1db">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="e71d4ed4-82e5-47b6-b3a2-0a12a7cec2c5">
+    <name>ФормаГруппы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма группы</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
