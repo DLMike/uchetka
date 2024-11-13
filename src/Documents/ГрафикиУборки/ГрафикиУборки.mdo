@@ -83,23 +83,6 @@
       <key>ru</key>
       <value>Даты уборки</value>
     </synonym>
-    <attributes uuid="58596477-939f-4b77-8cfa-033cbe2a4c8f">
-      <name>НомерПоПорядку</name>
-      <synonym>
-        <key>ru</key>
-        <value>Номер по порядку</value>
-      </synonym>
-      <type>
-        <types>Number</types>
-        <numberQualifiers>
-          <precision>10</precision>
-        </numberQualifiers>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
-    </attributes>
     <attributes uuid="1319b5df-58fc-4c57-9307-21a244ce5f67">
       <name>ФИО</name>
       <synonym>
@@ -107,7 +90,11 @@
         <value>ФИО</value>
       </synonym>
       <type>
+        <types>String</types>
         <types>CatalogRef.Люди</types>
+        <stringQualifiers>
+          <length>30</length>
+        </stringQualifiers>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
