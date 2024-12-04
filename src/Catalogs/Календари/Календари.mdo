@@ -128,6 +128,15 @@
   <descriptionLength>100</descriptionLength>
   <codeType>String</codeType>
   <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="4d48d5b3-54a1-4f47-b174-1bbf20055790">
+      <name>Основной</name>
+      <description>Основной</description>
+      <code xsi:type="core:StringValue">
+        <value></value>
+      </code>
+    </items>
+  </predefined>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
   <defaultObjectForm>Catalog.Календари.Form.ФормаЭлемента</defaultObjectForm>
