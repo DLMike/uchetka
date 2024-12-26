@@ -10,7 +10,7 @@
 		</languageInfo>
 	</languageSettings>
 	<columns>
-		<size>4</size>
+		<size>5</size>
 		<columnsItem>
 			<index>1</index>
 			<column>
@@ -121,28 +121,38 @@
 		<row>
 			<c>
 				<c>
-					<f>7</f>
+					<f>8</f>
+					<parameter>номер</parameter>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>7</f>
+					<f>8</f>
+					<parameter>фио</parameter>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>7</f>
+					<f>8</f>
+					<parameter>дата</parameter>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>7</f>
+					<f>8</f>
+					<parameter>телефон</parameter>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>0</f>
+					<tl/>
 				</c>
 			</c>
 		</row>
 	</rowsItem>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>8</defaultFormatIndex>
+	<defaultFormatIndex>9</defaultFormatIndex>
 	<height>3</height>
 	<vgRows>3</vgRows>
 	<merge>
@@ -197,6 +207,11 @@
 	<format>
 		<font>1</font>
 		<border>0</border>
+	</format>
+	<format>
+		<font>1</font>
+		<border>0</border>
+		<fillType>Parameter</fillType>
 	</format>
 	<format>
 		<width>72</width>
