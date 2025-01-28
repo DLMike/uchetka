@@ -1326,6 +1326,7 @@
   <commonModules>CommonModule.ЭлектроннаяПодписьСлужебныйПовтИсп</commonModules>
   <commonModules>CommonModule.ЯндексПереводчик</commonModules>
   <commonModules>CommonModule.ОбновлениеИнформационнойБазыУЧК</commonModules>
+  <commonModules>CommonModule.УправлениеПечатьюБПКлиент</commonModules>
   <commonAttributes>CommonAttribute.КомментарийЯзык1</commonAttributes>
   <commonAttributes>CommonAttribute.КомментарийЯзык2</commonAttributes>
   <commonAttributes>CommonAttribute.НаименованиеЯзык1</commonAttributes>
