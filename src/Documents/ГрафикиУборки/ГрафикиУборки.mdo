@@ -12,6 +12,7 @@
     <key>ru</key>
     <value>Графики уборки</value>
   </synonym>
+  <comment>Составление графика уборки с указанной даты</comment>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ГрафикиУборки.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
